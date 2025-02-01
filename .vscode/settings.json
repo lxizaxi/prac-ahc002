@@ -1,0 +1,12 @@
+{
+    "editor.defaultFormatter": "rust-lang.rust-analyzer",
+    "[rust]": {
+      "editor.formatOnSave": true,
+      "editor.formatOnType": true
+    },
+    "rust-analyzer.checkOnSave": true,
+    "rust-analyzer.inlayHints.enable": true,
+    "rust-analyzer.procMacro.enable": true,
+    "rust-analyzer.cargo.features": [],
+    "rust-analyzer.rustfmt.enable": true
+  }
